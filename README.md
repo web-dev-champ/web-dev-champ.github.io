@@ -1,2 +1,3 @@
-# web-dev-champ.github.io
-A Web Developing Aspirant's Site 
+# Srijan Sen
+A Software developer
+Let's talk about Data Science, Machine Learning, DSA, Web Development, Cyber Security
